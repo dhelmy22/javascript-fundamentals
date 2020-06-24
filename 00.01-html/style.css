@@ -1,0 +1,30 @@
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+h3{
+    color: blue;
+}
+p{
+    color: red;
+}
+#challenge1 {
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+    background-color: grey;
+    border-width: 5px;
+    
+}
+.div1{
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    background-color: lightgrey;
+    text-align: center;
+    border-width: 2px;
+    display: inline-block;
+    width: 32%;
+    margin-left: 9px;
+    
+}
